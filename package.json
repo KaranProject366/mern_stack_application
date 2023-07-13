@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-expressjs-project",
+  "version": "1.0.0",
+  "description": "This is a node.js express.js project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karan vaishnav",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
